@@ -1,7 +1,12 @@
-<h2>Checkers game</h2>
-<p>The following <b>enhancements</b> have been completed:</p>
-<p><i>• Identified the game winning handle and added a memoization variable to enable the game to store series of winning moves. This will shorten the steps taken to win if a move is identified as being in the wining moves series.<br>
-• Implementation of a depth first search algorithm (min-max) when identifying the next move to make. This will help reduce the time it takes to get a suitable move from the current time which uses a breadth first search algorithm.</i><br></p>
+<h2>OpenGL 3D Objects and Scene</h2>
+<p>Using OpenGL <b>glad</b> and <b>GLFW</b> libraries to draw 3D objects and scenes</p>
+<b>The Scene</b>
+	<img src="https://github.com/Ritesh214/OpenGL_3D/tree/main/images/scene.png"><br>
+<p><i>This project was chosen because of the many complex objects in it that require multiple objects to create. This presents a reasonable challenge that will ensure an in-depth study of how to create various objects and also meet the minimum requirements of having at least four of the mentioned objects to include. These are the cube, cylinder, plane, pyramid, sphere and torus.<br>
+I was able to program the scene by first learning how to create objects in the primitive way using four different ways to generate a cube. Once I understood the concept, I took it a step further by using classes to create objects like cylinders and spheres. Using classes made it easier to define objects in the scene since I only needed to pass the defining parameters and the class would take care of the rest.</i><br></p>
+
+<b>The controls</b>
+
 <p>The skills illustrated here are in the use of algorithms and data structures to <b>solve, improve performance</b> and <b>reduce the number of steps</b> required to reach a desired solution. When using algorithms we are trying to <b>optimize</b> a solution. The solution could be found in many different ways but we find the most efficient way such that we can save on <b>time of execution</b> and the <b>resources</b> that would be required to complete the task. <b>Data structures</b> are ways of storing data so that it can be <b>manipulated</b> in a desired manner e.g. you can use a queue to implement a <b>first in first out</b> operation on a set of variables or a stack for a last in first out operation. This structures are very important when dealing with <b>arrays of data</b>.</p>
 
 <b>The checkers game</b>
