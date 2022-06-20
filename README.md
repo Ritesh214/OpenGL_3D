@@ -41,21 +41,25 @@ I was able to program the scene by first learning how to create objects in the <
 
 <p>All these were necessary to <b>automate</b> the creation of objects on the 3D scene. Without these it would take a long time <b>mapping coordinates</b> for the objects and <b>textures</b> manually. These custom functions are <b>reusable</b> by including the <b>header files</b> in your project and calling the functions correctly with the required parameters.</p>
 
-<b>Running the code</b>
+<b>Running the code</b><br>
+<b><i>3D desk lamp</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d1.png"><br>
-<b><i>Add three new lists</i></b><br>
+<b><i>3D pyramid with texture</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d2.png"><br>
-<b><i>Append moves made by each player to their respective lists</i></b><br>
+<b><i>3D pyramid with light</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d3.png"><br>
-<b><i>Append the winning series of moves to the winning series list</i></b><br>
+<b><i>3D cube with light</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d4.png"><br>
-<b><i>When making a move check if the move exists in a winning list containing the series of moves that lead to a win and select the next move from there</i></b><br>
+<b><i>3D cylinders</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d5.png"><br>
-<b><i>Implement a depth first search to reduce the implementation time for the move selection process. Current implementation is breadth first search wich has high space and time complexity</i></b><br>
+<b><i>3D cylinders</i></b><br>
 	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d6.png"><br>
+<b><i>3D cylinders with light</i></b><br>
+	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/3d7.png"><br>
 
 
 <p>Running file to can be found in the <b>Ritesh_FinalProject</b> folder, <b>OpenGLSample</b> folder <b><i>OpenGLSample.exe<i/></b>. Use right control for down movement and left control for up movement. Click and hold left mouse button for camera movement.</p>
 
 <b>Skills</b>
-<p>The skills illustrated here are in the use of glew and glad libraries in creating OpenGL 3D objects and scenes. I have also demonstrated how to use custom libraries to modularize the code and make the creation of objects on a scene easier.</p>
+<p>The skills illustrated here are in the use of <b>glew</b> and <b>glad</b> libraries in creating <b>OpenGL 3D objects</b> and scenes. I have also demonstrated how to use <b>custom libraries</b> to <b>modularize</b> the code and make the creation of objects on a scene easier.</p>
+
