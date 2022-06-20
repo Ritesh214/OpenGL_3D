@@ -1,7 +1,7 @@
 <h2>OpenGL 3D Objects and Scene</h2>
 <p>Using OpenGL <b>glad</b> and <b>GLFW</b> libraries to draw 3D objects and scenes</p>
 <b>The Scene</b>
-	<img src="https://github.com/Ritesh214/OpenGL_3D/tree/main/images/scene.png"><br>
+	<img src="https://github.com/Ritesh214/OpenGL_3D/blob/main/images/scene.png"><br>
 <p><i>This project was chosen because of the many complex objects in it that require multiple objects to create. This presents a reasonable challenge that will ensure an in-depth study of how to create various objects and also meet the minimum requirements of having at least four of the mentioned objects to include. These are the cube, cylinder, plane, pyramid, sphere and torus.<br>
 I was able to program the scene by first learning how to create objects in the primitive way using four different ways to generate a cube. Once I understood the concept, I took it a step further by using classes to create objects like cylinders and spheres. Using classes made it easier to define objects in the scene since I only needed to pass the defining parameters and the class would take care of the rest.</i><br></p>
 
