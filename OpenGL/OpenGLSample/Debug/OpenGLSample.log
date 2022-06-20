@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(230,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(309,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(342,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(344,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(346,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(348,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(350,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(352,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(388,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(389,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(393,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(394,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(395,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\edwar\Desktop\OpenGLSample9\OpenGLSample\Source.cpp(396,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> C:\Users\edwar\Desktop\OpenGLSample9\Debug\OpenGLSample.exe
