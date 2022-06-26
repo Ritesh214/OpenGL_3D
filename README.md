@@ -15,11 +15,11 @@
 . Using beta testing to refine and show progress.</br>
 </p>
 <p><b>How did iteration factor into your development?</b></p>
-<p>To create a 3D scene with multiple objects I has to iterate the varios 3D objects but with a different scalling factor</p>
+<p>To create a 3D scene with multiple objects I has to iterate the varios 3D objects but with a different scalling factor.</p>
 <p><b>How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?</b></p>
-<p>I have learnt to create header files and classes that allow me to re-use code when necessary</p>
+<p>I have learnt to create header files and classes that allow me to re-use code when necessary.</p>
 <h2>How can computer science help me in reaching my goals?</h2>
 <p><b>How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?</b></p>
-<p>I have learnt to create modules and classes that I can re-use in future projects</p>
+<p>I have learnt to create modules and classes that I can re-use in future projects.</p>
 <p><b>How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?</b></p>
-<p>Understanding how a computer processes 3D objects has given me a new respect towards the use of registers and memory in the computer</p>
+<p>Understanding how a computer processes 3D objects has given me a new respect towards the use of registers and memory in the computer.</p>
